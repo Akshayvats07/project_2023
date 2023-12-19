@@ -1,0 +1,61 @@
+/* navbar */
+.collapse{
+    margin-left: 430px;
+}
+.nav-item{
+    margin-left:25PX;
+}
+.inline{
+    text-decoration: none;
+    color: orangered;
+}
+/* section */
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+hr.new{
+    width: 200px;
+    margin: auto;
+    border: 2px solid rgb(255, 55, 0);
+}
+.row{
+    margin-top: 50px;
+}
+.view{
+    color: orangered;
+}
+.card-text{
+    color: orangered;
+}
+/* imgage */
+.imge{
+    margin-top: 50px;
+}
+/* section 5 */
+.background{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding-top:10px;
+    padding-bottom: 60px;
+}
+.cat{
+    margin-top: 25px;
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 25px;
+    border-radius: 20%;
+}
+/* footer */
+.text-reset{
+    text-decoration: none;
+}
+
+
+
+

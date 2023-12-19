@@ -1,0 +1,30 @@
+.bg-image{
+    background-image: url('images/image3.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+.about{
+    font-size: 50px;
+}
+.para{
+    border: 10px groove blue;
+    line-height: 2;
+}
+hr.new1{
+    width: 250px;
+    margin: auto;
+    border: 2px solid rgb(255, 55, 0);
+}
+.imge12{
+    background-image: url('images/image1.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+.img{
+    background-image: url('images/image5.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
